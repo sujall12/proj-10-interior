@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+  background-image: url(/asset/bgc.jpg);
+  background-repeat: no-repeat;
+  background-size: 1400px 700px;
+}
+
+.nav-container{
+    display: flex;
+    color:rgb(221, 216, 216);
+    font-family: "orbiton", sans-serif;
+    margin-top: 2.5rem;
+    
+    
+    
+}
+
+.nav-links{
+    display: flex;
+    list-style-type: none;
+    gap: 50px;
+    margin-left: 70%;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-weight: 700;
+    
+
+}
+
+.nav-links::after{
+    text-decoration: underline;
+}
+
+
+.nav-logo{
+    margin-left: 40px;
+    width: 50px;
+    font-family: sans-serif;
+    font-size: xx-large;
+    margin-top: -20px;
+    font-weight: bolder;
+
+}
+
+
+.heading{
+    margin-left: 8rem;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    width: 70%;
+    font-size: 65px;
+
+}
+
+
+.puzzel{
+    margin-left: 75%;
+    margin-top: -30%;
+    width: 250px;
+    background-color: #6d747a;
+    padding: 20px;
+    border-radius: 25px;
+    opacity: 85%;
+    height: 165px;
+    box-shadow: 2.5px 2.5px 2.5px 2px #44f492;
+   
+}
+
+.puzz{
+    margin-left: 10px;
+    background-color: white;
+    padding: 10px;
+    width:65px;
+    border-width: 10px;
+    border-radius: 20px;
+    
+    
+}
+
+
+.text-1{
+    margin-top: 1rem;
+    color: white;
+    font-weight: bolder;
+}
+
+.light{
+    margin-left: 70%;
+    margin-top: 11%;
+    width: 250px;
+    background-color: #6d747a;
+    padding: 20px;
+    border-radius: 25px;
+    opacity: 85%;
+    height: 165px;
+    box-shadow: 2.5px 2.5px 2.5px 2px #44f492;
+
+}
+
+.light-1{
+    margin-left: 10px;
+    background-color: white;
+    padding: 10px;
+    width:65px;
+    border-width: 10px;
+    border-radius: 20px;
+
+}
+
+
+.text-2{
+    margin-top: 1rem;
+    color: white;
+    font-weight: bolder;
+
+}
+
+.btn-learn{
+    margin-top: 11%;
+    margin-left: 10%;
+    padding: 5px;
+    width: 250px;
+    border-radius: 33px;
+    border: 3px solid white;
+    font-weight: 500;
+    font-size: xx-large;
+    background: none;
+    color: white;
+    cursor: pointer;
+    transition: .1s;
+}
+
+
+.btn-learn:hover{
+    color: #255784;
+    background-color: #2196f3;
+    box-shadow: 0 0 10px #2196f3,0 0 40px #2196f3,0 0 80px #2196f3;
+    transition-delay: .2s;
+
+}
+
+
+
+
+
