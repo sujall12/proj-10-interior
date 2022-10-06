@@ -2,9 +2,9 @@
 
 ## By Sujal
 
-## [Link for Project 1](https://lively-sprinkles-44d00c.netlify.app/) 
+## [Link for Project 10](https://proj-10-mobile-responsive.netlify.app/) 
 
-![project 1 completed](./Screenshot_1.png)
+![project 10 completed](./Screenshot_1.png)
 
 ## What I learned ? How was my experience while making this project?
 
